@@ -1,0 +1,60 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": false,
+            "HideIconAfter": -1,
+            "IconURL": "https://i.imgur.com/C5RCMKe.jpeg",
+            "DisableIconText": true,
+            "IconPosition": 2,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 1
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Welcome",
+                    "title1": "<TextStyle.green>WELCOME TO LUTRALITH'S KINGDOM RP PVP SERVER</>",
+                    "text1": "<TextStyle.Yellow>NEW PLAYERS:</>\n<RichColor Color=\"255,255,255,1\">Please take a moment to read the rules on the Rules tab.</>\n\n<RichColor Color=\"255,255,255,1\">Our discord link: https://discord.gg/lutralith</>\n\n<RichColor Color=\"255,255,255,1\">1. No Human/Humano/Mens/Mensch names.</>\n<RichColor Color=\"255,255,255,1\">1. Play fairly. Nobody likes exploiters or cheaters.</>\n<RichColor Color=\"255,255,255,1\">2. Join the discord and get recruited into a kingdom.</>\n\n\n<TextStyle.Yellow>STARTER KIT:</>\n<RichColor Color=\"255,255,255,1\">Join our discord and go to roles. React to PVE/PVP Chat to access the chats.</>\n\n<RichColor Color=\"255,255,255,1\">- Make a ticket to request a starter pack</>\n<RichColor Color=\"255,255,255,1\">- Starter kits are given one per person.</>\n<RichColor Color=\"255,255,255,1\">- Don't make secondary accounts to take advantage of the starter kits.</>\n<RichColor Color=\"255,255,255,1\">- Starter kits on our other servers are different. You will only receive the starter kit provided down below for this server.</>\n<RichColor Color=\"255,255,255,1\">- Leaders and followers will receive different starter kits.</>\n\n<RichColor Color=\"255,255,255,1\">Remember to have fun and keep it clean.</>\n\n<RichColor Color=\"255,255,255,1\">The starter kit includes the following:</>\n\n<RichColor Color=\"255,255,255,1\">- Leader: Runic wyvern/other flying creature</>\n<RichColor Color=\"255,255,255,1\">- Leader/followers: Metal pike</>\n<RichColor Color=\"255,255,255,1\">- Leader/followers: Metal Pike</>\n<RichColor Color=\"255,255,255,1\">- Leader: Flak armor set</>\n<RichColor Color=\"255,255,255,1\">- Followers: 1 Medium dino of your choice.</>",
+                    "imageurl": "https://i.imgur.com/sB1gHwn.jpg"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 1,
+                    "buttontext": "Rules",
+                    "title1": "<TextStyle.Yellow>GENERAL RULES</>",
+                    "text1": "<TextStyle.White>No harassment or bullying.</>\n\n<TextStyle.White>No racism or slurs.</>\n\n<TextStyle.White>No threatening of any kind.</>\n\n<TextStyle.Yellow>No offline killing to gain leadership/strip deities of their weapon/armor.</>",
+                    "imageurl": "https://i.imgur.com/C5RCMKe.jpeg"
+                }
+            },
+            {
+                "tab3": {
+                    "layout": 3,
+                    "buttontext": "Server Stats",
+                    "title1": "<TextStyle.Yellow>GENERAL SETTINGS</>",
+                    "title2": "<TextStyle.Yellow>PLAYER SETTINGS</>",
+                    "title3": "<TextStyle.Yellow>DINO SETTINGS</>",
+                    "text1": "<TextStyle.White>-4x Harvest</>\n<TextStyle.White>-1x Crop Growth</>\n<TextStyle.White>-1x Loot Quality</>\n<TextStyle.White>-1x Fishing Loot Quality</>\n<TextStyle.White>-30 second Structure Pickup</>\n<TextStyle.White>-Custom Stacks</>\n<TextStyle.White>-1x Official Difficulty</>\n<TextStyle.White>-1x Autodecay</>\n<TextStyle.White>-Friendly Fire enabled</>\n<TextStyle.White>-No tribe limit</>\n<TextStyle.White>-Mods</>\n<TextStyle.White>-No structure collision</>\n<TextStyle.White>-1x Spoil time Multiplier</>",
+                    "text2": "<TextStyle.White>-2x Slower Water Drain</>\n<TextStyle.White>-1x Slower Stamina Drain</>\n<TextStyle.White>-2x Slower Food Drain</>\n<TextStyle.White>-1x Passive XP</>\n<TextStyle.White>-2.5x Crafting XP</>\n<TextStyle.White>-2.5x Kill XP</>\n<TextStyle.White>-2.5x Harvest XP</>\n<TextStyle.White>-1x Special XP</>",
+                    "text3": "<TextStyle.White>- Max Level 150</>\n<TextStyle.White>- 10x Taming</>\n<TextStyle.White>- 3x Incubation</>\n<TextStyle.White>- 3x Maturation</>\n<TextStyle.White>- 1x Imprint Stats Multiplier</>\n<TextStyle.White>- 1x Dino Imprint</>\n<TextStyle.White>- 3x Mating</>\n<TextStyle.White>- 3x Mating Interval</>\n<TextStyle.White>- 1x Egg Lay Interval</>",
+                    "imageurl": "https://i.imgur.com/PVJYjvV.jpg"
+                }
+            },
+            {}
+        ],
+        "links": [
+            {},
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.gg/lutralith"
+                }
+            },
+            {}
+        ]
+    }
+}
